@@ -1,0 +1,12 @@
+.sideContainer {
+    width: 300px;
+    margin: 50px 40px 0 40px;
+    border: 1px solid #1a0101;;
+    box-shadow: 10px 10px 5px #960202;
+    background-color: rgb(220, 202, 235);
+  
+  }
+  
+  h3 {
+    text-align: center;
+  }

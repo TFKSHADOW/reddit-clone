@@ -1,0 +1,108 @@
+.postContainer {
+    border: 1px solid #BFBFBF;;
+    margin: 20px;
+    
+    box-shadow: 10px 10px 5px #aaaaaa;
+    background-color: white;
+    max-width: 700px;
+  }
+  
+  .postTitle {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  .postCategory p {
+    padding-top: 15px ;
+  }
+  
+  h2 {
+  text-align: center;
+  margin-top: 5px;
+  }
+  
+  .footerContainer {
+    display: flex;
+    height: 100px;
+    justify-content: space-around;
+    align-items: center;
+  
+  }
+  
+  .svgIcon {
+    height: 8%;
+    width: 8%
+  }
+  
+  
+  p {
+    margin: auto;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .postUrl a{
+    font-size: 20px;
+  }
+  
+  p a {
+    text-decoration: none;
+  }
+  
+  .footerElement {
+    max-width: 130px;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .postMedia {
+    max-width: 630px;
+    height: auto;
+    width: 90%;
+    margin: auto;
+    display: block;
+  }
+  
+  .postImage {
+  width: 100%;
+  }
+  
+  .postVideo {
+  width: 100%;
+  }
+  
+  .comment {
+    max-width: 70vw;
+  }
+  
+  
+  .comment ul {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+  .comment li {
+    list-style-type: none;
+    border-bottom: 1px black solid;
+    width: 100%;
+  }
+  
+  .comment li h5 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    width: 100%;
+  }
+  
+  .comment li p {
+    margin-bottom: 5px;
+    text-align: left;
+    padding-bottom: 10px;
+    width: 100%;
+    overflow-wrap: break-word;
+  }
+  
+  .footerElement button {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
